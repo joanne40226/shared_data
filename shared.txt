@@ -1,0 +1,2 @@
+# used joint: waist 1 + head 2 + arm 5*2 + hand 6*2 = 25
+# full joint: waist 3 + head 3 + arm 7*2 + hand 6*2 = 32
